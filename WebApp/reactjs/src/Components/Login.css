@@ -1,0 +1,22 @@
+.icon-img{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 3em;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #20a5d5;
+    border-color: #20a5d5;
+    font-weight: bold;
+}
+
+.reset{
+    color: #2998cc;
+}
+
+.rounded{
+    background: #2998cc;
+box-shadow: inset -7px -7px 14px #2998cc,
+            inset 7px 7px 14px #2998cc;
+}
